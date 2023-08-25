@@ -2,6 +2,9 @@
 
 Selamat datang di Ayo Sehat Bot, chatbot berbasis aturan yang dirancang untuk membantu Anda dalam menjaga berat badan dan meningkatkan kesehatan melalui rekomendasi aktivitas, makanan, dan motivasi.
 
+## Penggunaan dalam Google Collab
+[Ayo Sehat Bot dalam Google Collab](https://colab.research.google.com/drive/1f7UU8ysstf3s5cjDPBkSHjXi-0ZwRexV?usp=sharing)
+
 ## Fitur Utama
 
 1. **Rekomendasi Aktivitas**: Ayo Sehat Bot akan memberikan rekomendasi aktivitas fisik berdasarkan tujuan Anda, seperti penurunan berat badan atau peningkatan kebugaran. Gunakan pustaka `re` untuk memahami input pengguna.
@@ -18,7 +21,7 @@ Selamat datang di Ayo Sehat Bot, chatbot berbasis aturan yang dirancang untuk me
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.11
 - Pustaka `re` (Regular Expressions)
 - Pustaka `random`
 
